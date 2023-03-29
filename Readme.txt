@@ -1,4 +1,6 @@
 
-Segunda entrega con correcciones indicadas. Se realizó cambio estructural y de diseño, se agregan efectos de menú, botón con evento javascript para aparecer texto, utilización de boostrap, efecto para el ajuste de pantalla a distintos tamaños. Iconos con referencia a redes sociales (coloqué la pagina principal de las redes sociales ya que el usuario es ficticio tomado con json desde randomuser). 
+Segunda entrega con correcciones indicadas. Se realizó cambio estructural y de diseño, se agregan efectos de menú, botón con evento
+javascript para aparecer texto, utilización de boostrap, efecto para el ajuste de pantalla a distintos tamaños. Iconos con referencia
+a redes sociales (coloqué la pagina principal de las redes sociales ya que el usuario es ficticio tomado con json desde randomuser). 
 
 Diego Fontana
